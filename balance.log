@@ -22546,3 +22546,15 @@
 {"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T06:31:14+09:00"}
 {"btc":0,"eth":1.1173758506774902,"exchange":"kucoin","level":"info","meta":0,"msg":"GatherBalance","time":"2019-06-05T06:41:14+09:00"}
 {"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T06:41:15+09:00"}
+{"btc":0,"eth":1.1173758506774902,"exchange":"kucoin","level":"info","meta":0,"msg":"GatherBalance","time":"2019-06-05T06:51:16+09:00"}
+{"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T06:51:17+09:00"}
+{"btc":0,"eth":1.1173758506774902,"exchange":"kucoin","level":"info","meta":0,"msg":"GatherBalance","time":"2019-06-05T07:01:18+09:00"}
+{"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T07:01:19+09:00"}
+{"btc":0,"eth":1.1173758506774902,"exchange":"kucoin","level":"info","meta":0,"msg":"GatherBalance","time":"2019-06-05T07:11:20+09:00"}
+{"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T07:11:21+09:00"}
+{"btc":0,"eth":1.1173758506774902,"exchange":"kucoin","level":"info","meta":0,"msg":"GatherBalance","time":"2019-06-05T07:21:22+09:00"}
+{"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T07:21:23+09:00"}
+{"btc":0,"eth":1.1173758506774902,"exchange":"kucoin","level":"info","meta":0,"msg":"GatherBalance","time":"2019-06-05T07:31:24+09:00"}
+{"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T07:31:26+09:00"}
+{"btc":0,"eth":1.1173758506774902,"exchange":"kucoin","level":"info","meta":0,"msg":"GatherBalance","time":"2019-06-05T07:41:26+09:00"}
+{"btc":0.000001,"eth":4.344233158788671,"exchange":"abcc","level":"info","meta":8350174.01,"msg":"GatherBalance","time":"2019-06-05T07:41:27+09:00"}
