@@ -271,6 +271,7 @@ func getUpbitTrades(pair string) {
 		State:   upbitTypes.StateOptions.Done,
 		OrderBy: "desc",
 	}); err == nil {
+		fmt.Println("upbit trades IN")
 		for _, v := range ret {
 			if !checkExistOrder(v.UUID) {
 				price, err1 := strconv.ParseFloat(v.Price, 32)
